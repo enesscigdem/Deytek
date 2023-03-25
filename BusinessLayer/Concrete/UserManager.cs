@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Reflection.Metadata;
 using BusinessLayer.Abstract;
 using DataAccessLayer.Abstract;
 using EntityLayer.Concrete;
@@ -32,6 +33,10 @@ namespace BusinessLayer.Concrete
         public void TUpdate(AppUser t)
         {
             _userDal.Update(t);
+        }
+        public AppUser TGetByID(string id)
+        {
+            return _userDal.GetByID(id);
         }
     }
 }

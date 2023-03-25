@@ -24,6 +24,10 @@ namespace Deytek.Models
         [Display(Name = "Kullanıcı Adı")]
         [Required(ErrorMessage = "Lütfen kullanıcı adınızı giriniz")]
         public string UserName { get; set; }
+
+        [Display(Name = "Profil Fotoğrafı")]
+        [Required(ErrorMessage = "Lütfen profil fotoğrafınızı giriniz")]
+        public string Image { get; set; } = "A";
     }
 }
 

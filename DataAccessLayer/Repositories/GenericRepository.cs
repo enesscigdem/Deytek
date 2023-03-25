@@ -31,6 +31,11 @@ namespace DataAccessLayer.Repositories
             c.Update(t);
             c.SaveChanges();
         }
+        public T GetByID(string id)
+        {
+            using var c = new Context();
+            return c.Set<T>().Find(id);
+        }
     }
 }
 

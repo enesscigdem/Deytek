@@ -1,0 +1,52 @@
+@using EntityLayer.Concrete
+@model List<AppUser>
+@{
+    ViewData["Title"] = "UserList";
+    Layout = "UserLayout";
+}
+<title>Kullanıcı Listesi</title>
+<div class="row">
+    <div class="col-12 grid-margin">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Kullanıcı Listesi</h4>
+                <div class="table-responsive">
+                    <table class="table">
+                        <thead>
+                            <tr>
+
+                                <th> # </th>
+                                <th> Profil Resmi </th>
+                                <th> İsim </th>
+                                <th> Email </th>
+                                <th> Password </th>
+                                <th>Sil</th>
+                                <th>Düzenle</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td></td>
+                                    <td>
+                                        <img src="~/writer/Resimler/@item.ProfilePhotoUrl" class="mr-2" alt="image">
+                                    </td>
+                                    <td>@item.NameSurname</td>
+
+                                    <td>
+                                        <label class="badge badge-gradient-success">@item.Email</label>
+                                    </td>
+                                    <td>@item.Password</td>
+                                    <td><a href="/User/DeleteUser/@item.Id" class="btn btn-outline-danger">Sil</a></td>
+                                    <td><a href="/User/EditUser/@item.Id" class="btn btn-outline-info">Düzenle</a></td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<a href="/User/AddUser" class="btn btn-success">Yeni Kullanıcı Ekle</a>

@@ -567,9 +567,7 @@
 /Users/enescigdem/Projects/Deytek/Deytek/obj/Debug/net7.0/staticwebassets.pack.json
 /Users/enescigdem/Projects/Deytek/Deytek/obj/Debug/net7.0/staticwebassets.build.json
 /Users/enescigdem/Projects/Deytek/Deytek/obj/Debug/net7.0/staticwebassets.development.json
-/Users/enescigdem/Projects/Deytek/Deytek/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/enescigdem/Projects/Deytek/Deytek/obj/Debug/net7.0/scopedcss/bundle/Deytek.styles.css
-/Users/enescigdem/Projects/Deytek/Deytek/obj/Debug/net7.0/scopedcss/projectbundle/Deytek.bundle.scp.css
 /Users/enescigdem/Projects/Deytek/Deytek/obj/Debug/net7.0/Deytek.csproj.CopyComplete
 /Users/enescigdem/Projects/Deytek/Deytek/obj/Debug/net7.0/Deytek.dll
 /Users/enescigdem/Projects/Deytek/Deytek/obj/Debug/net7.0/refint/Deytek.dll

@@ -30,5 +30,9 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\User\" />
+    <Folder Include="wwwroot\writer\Resimler\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\writer\Resimler\" />
   </ItemGroup>
 </Project>
