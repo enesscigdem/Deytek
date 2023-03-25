@@ -1,5 +1,22 @@
 ﻿<Properties StartupConfiguration="{87ABCA3F-671E-446F-BCAE-320F16F7966A}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.Deytek PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataAccessLayer/EntityFramework/EfUserRepository.cs">
+    <Files>
+      <File FileName="DataAccessLayer/EntityFramework/EfUserRepository.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Deytek" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.DataAccessLayer FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.EntityLayer FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.BusinessLayer FirstBuild="True" />
