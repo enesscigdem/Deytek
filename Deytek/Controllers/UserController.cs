@@ -2,15 +2,54 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Deytek.Models;
+using EntityLayer.Concrete;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Deytek.Controllers
 {
+    [AllowAnonymous]
     public class UserController : Controller
     {
-        public IActionResult Index()
+        private readonly UserManager<AppUser> _userManager;
+
+        public UserController(UserManager<AppUser> userManager)
+        {
+            _userManager = userManager;
+        }
+
+        [HttpGet]
+        public IActionResult AddUser()
         {
             return View();
+        }
+        [HttpPost]
+        public async Task<IActionResult> AddUser(UserSignUpViewModel p)
+        {
+            if (ModelState.IsValid)
+            {
+                AppUser user = new AppUser()
+                {
+                    Email = p.Mail,
+                    UserName = p.UserName,
+                    NameSurname = p.nameSurname
+                };
+                var result = await _userManager.CreateAsync(user, p.Password);
+                if (result.Succeeded)
+                {
+                    return RedirectToAction("Index", "Login");
+                }
+                else
+                {
+                    foreach (var item in result.Errors)
+                    {
+                        ModelState.AddModelError("", item.Description);
+                    }
+                }
+            }
+            return View(p);
         }
     }
 }

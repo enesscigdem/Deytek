@@ -5,6 +5,286 @@
       "PackagePath": "staticwebassets/Deytek.bundle.scp.css"
     },
     {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/.DS_Store",
+      "PackagePath": "staticwebassets/CoreBlogTema/.DS_Store"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/css/bootstrap.css",
+      "PackagePath": "staticwebassets/CoreBlogTema/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/css/contact.css",
+      "PackagePath": "staticwebassets/CoreBlogTema/css/contact.css"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/css/fontawesome-all.css",
+      "PackagePath": "staticwebassets/CoreBlogTema/css/fontawesome-all.css"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/css/jquery.desoslide.css",
+      "PackagePath": "staticwebassets/CoreBlogTema/css/jquery.desoslide.css"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/css/single.css",
+      "PackagePath": "staticwebassets/CoreBlogTema/css/single.css"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/css/style.css",
+      "PackagePath": "staticwebassets/CoreBlogTema/css/style.css"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/images/1.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema/images/1.jpg"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/images/2.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema/images/2.jpg"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/images/3.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema/images/3.jpg"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/images/4.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema/images/4.jpg"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/images/5.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema/images/5.jpg"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/images/6.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema/images/6.jpg"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/images/7.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema/images/7.jpg"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/images/8.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema/images/8.jpg"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/images/Thumbs.db",
+      "PackagePath": "staticwebassets/CoreBlogTema/images/Thumbs.db"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/images/b1.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema/images/b1.jpg"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/images/b2.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema/images/b2.jpg"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/images/b3.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema/images/b3.jpg"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/images/b4.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema/images/b4.jpg"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/images/b5.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema/images/b5.jpg"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/images/banner1.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema/images/banner1.jpg"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/images/banner2.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema/images/banner2.jpg"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/images/banner3.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema/images/banner3.jpg"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/images/banner4.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema/images/banner4.jpg"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/images/banner5.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema/images/banner5.jpg"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/images/left.png",
+      "PackagePath": "staticwebassets/CoreBlogTema/images/left.png"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/images/m1.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema/images/m1.jpg"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/images/m2.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema/images/m2.jpg"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/images/m3.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema/images/m3.jpg"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/images/m4.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema/images/m4.jpg"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/images/right.png",
+      "PackagePath": "staticwebassets/CoreBlogTema/images/right.png"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/images/t1.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema/images/t1.jpg"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/images/t2.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema/images/t2.jpg"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/images/t3.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema/images/t3.jpg"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/images/t4.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema/images/t4.jpg"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/images/top_up.png",
+      "PackagePath": "staticwebassets/CoreBlogTema/images/top_up.png"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/js/bootstrap.js",
+      "PackagePath": "staticwebassets/CoreBlogTema/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/js/easing.js",
+      "PackagePath": "staticwebassets/CoreBlogTema/js/easing.js"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/js/jquery-2.2.3.min.js",
+      "PackagePath": "staticwebassets/CoreBlogTema/js/jquery-2.2.3.min.js"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/js/jquery.desoslide.js",
+      "PackagePath": "staticwebassets/CoreBlogTema/js/jquery.desoslide.js"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/js/jquery.flexisel.js",
+      "PackagePath": "staticwebassets/CoreBlogTema/js/jquery.flexisel.js"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/js/modernizr.custom.min.js",
+      "PackagePath": "staticwebassets/CoreBlogTema/js/modernizr.custom.min.js"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/js/move-top.js",
+      "PackagePath": "staticwebassets/CoreBlogTema/js/move-top.js"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/weberror/css/font-awesome.css",
+      "PackagePath": "staticwebassets/CoreBlogTema/weberror/css/font-awesome.css"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/weberror/css/style.css",
+      "PackagePath": "staticwebassets/CoreBlogTema/weberror/css/style.css"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/weberror/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/CoreBlogTema/weberror/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/weberror/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/CoreBlogTema/weberror/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/weberror/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/CoreBlogTema/weberror/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/weberror/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/CoreBlogTema/weberror/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/weberror/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/CoreBlogTema/weberror/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/weberror/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/CoreBlogTema/weberror/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/weberror/images/banner1.jpg",
+      "PackagePath": "staticwebassets/CoreBlogTema/weberror/images/banner1.jpg"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/weberror/index.html",
+      "PackagePath": "staticwebassets/CoreBlogTema/weberror/index.html"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/weberror/w3layouts-license.txt",
+      "PackagePath": "staticwebassets/CoreBlogTema/weberror/w3layouts-license.txt"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/webfonts/fa-brands-400.eot",
+      "PackagePath": "staticwebassets/CoreBlogTema/webfonts/fa-brands-400.eot"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/webfonts/fa-brands-400.svg",
+      "PackagePath": "staticwebassets/CoreBlogTema/webfonts/fa-brands-400.svg"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/webfonts/fa-brands-400.ttf",
+      "PackagePath": "staticwebassets/CoreBlogTema/webfonts/fa-brands-400.ttf"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/webfonts/fa-brands-400.woff",
+      "PackagePath": "staticwebassets/CoreBlogTema/webfonts/fa-brands-400.woff"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/webfonts/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/CoreBlogTema/webfonts/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/webfonts/fa-regular-400.eot",
+      "PackagePath": "staticwebassets/CoreBlogTema/webfonts/fa-regular-400.eot"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/webfonts/fa-regular-400.svg",
+      "PackagePath": "staticwebassets/CoreBlogTema/webfonts/fa-regular-400.svg"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/webfonts/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/CoreBlogTema/webfonts/fa-regular-400.ttf"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/webfonts/fa-regular-400.woff",
+      "PackagePath": "staticwebassets/CoreBlogTema/webfonts/fa-regular-400.woff"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/webfonts/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/CoreBlogTema/webfonts/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/webfonts/fa-solid-900.eot",
+      "PackagePath": "staticwebassets/CoreBlogTema/webfonts/fa-solid-900.eot"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/webfonts/fa-solid-900.svg",
+      "PackagePath": "staticwebassets/CoreBlogTema/webfonts/fa-solid-900.svg"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/webfonts/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/CoreBlogTema/webfonts/fa-solid-900.ttf"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/webfonts/fa-solid-900.woff",
+      "PackagePath": "staticwebassets/CoreBlogTema/webfonts/fa-solid-900.woff"
+    },
+    {
+      "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/CoreBlogTema/webfonts/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/CoreBlogTema/webfonts/fa-solid-900.woff2"
+    },
+    {
       "Id": "/Users/enescigdem/Projects/Deytek/Deytek/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },

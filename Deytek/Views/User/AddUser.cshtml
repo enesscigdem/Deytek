@@ -1,0 +1,53 @@
+@using Deytek.Models
+@model UserSignUpViewModel
+@{
+    ViewData["Title"] = "AddUser";
+    Layout = "UserLayout";
+}
+
+@using (Html.BeginForm("AddUser", "User", FormMethod.Post))
+{
+    <div class="col-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Yeni Kullanıcı Ekleme</h4>
+                <br />
+                <form class="forms-sample">
+                    <div class="form-group">
+                        <span class="text-danger" asp-validation-for="@Model.nameSurname"></span>
+                        <input type="text" class="form-control" asp-for="@Model.nameSurname" name="nameSurname" placeholder="Adınız Soyadınız">
+                    </div>
+                    <div class="form-group">
+                        <span class="text-danger" asp-validation-for="@Model.Mail"></span>
+                        <input type="email" class="form-control" asp-for="@Model.Mail" placeholder="Email" required>
+                    </div>
+                    <div class="form-group">
+                        <span class="text-danger" asp-validation-for="@Model.UserName"></span>
+                        <input type="text" class="form-control" asp-for="@Model.UserName" placeholder="Kullanıcı Adınız">
+                    </div>
+                    <div class="form-group">
+                        <span class="text-danger" asp-validation-for="@Model.Password"></span>
+                        <input type="password" class="form-control" asp-for="@Model.Password" placeholder="Şifre">
+                    </div>
+                    <div class="form-group">
+                        <span class="text-danger" asp-validation-for="@Model.ConfirmPassword"></span>
+                        <input type="password" class="form-control" asp-for="@Model.ConfirmPassword" placeholder="Şifre Tekrar">
+                    </div>
+                    <div class="form-group">
+                        <label>Yazar Görsel</label>
+                        <input type="file" name="img[]" class="file-upload-default">
+                        <div class="input-group col-xs-12">
+                            <input type="text" class="form-control file-upload-info" name="WriterImage" disabled placeholder="Henüz bir resim seçilmedi...">
+                            <span class="input-group-append">
+                                <button class="file-upload-browse btn btn-gradient-primary" type="button">Resim Seç</button>
+                            </span>
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-gradient-primary mr-2">Kullanıcı Ekle</button>
+                    <button class="btn btn-light">İptal</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+}
