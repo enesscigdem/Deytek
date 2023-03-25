@@ -1,0 +1,7 @@
+﻿<Properties StartupConfiguration="{87ABCA3F-671E-446F-BCAE-320F16F7966A}|https">
+  <MonoDevelop.Ide.ItemProperties.Deytek PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.DataAccessLayer FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.EntityLayer FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.BusinessLayer FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

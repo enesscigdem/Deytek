@@ -1,0 +1,12 @@
+/Users/enescigdem/Projects/Deytek/EntityLayer/bin/Debug/net7.0/EntityLayer.deps.json
+/Users/enescigdem/Projects/Deytek/EntityLayer/bin/Debug/net7.0/EntityLayer.dll
+/Users/enescigdem/Projects/Deytek/EntityLayer/bin/Debug/net7.0/EntityLayer.pdb
+/Users/enescigdem/Projects/Deytek/EntityLayer/obj/Debug/net7.0/EntityLayer.csproj.AssemblyReference.cache
+/Users/enescigdem/Projects/Deytek/EntityLayer/obj/Debug/net7.0/EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enescigdem/Projects/Deytek/EntityLayer/obj/Debug/net7.0/EntityLayer.AssemblyInfoInputs.cache
+/Users/enescigdem/Projects/Deytek/EntityLayer/obj/Debug/net7.0/EntityLayer.AssemblyInfo.cs
+/Users/enescigdem/Projects/Deytek/EntityLayer/obj/Debug/net7.0/EntityLayer.csproj.CoreCompileInputs.cache
+/Users/enescigdem/Projects/Deytek/EntityLayer/obj/Debug/net7.0/EntityLayer.dll
+/Users/enescigdem/Projects/Deytek/EntityLayer/obj/Debug/net7.0/refint/EntityLayer.dll
+/Users/enescigdem/Projects/Deytek/EntityLayer/obj/Debug/net7.0/EntityLayer.pdb
+/Users/enescigdem/Projects/Deytek/EntityLayer/obj/Debug/net7.0/ref/EntityLayer.dll
