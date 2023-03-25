@@ -12,18 +12,19 @@ public class HomeController : Controller
     {
         _logger = logger;
     }
-
-    //fdsa
+    [HttpGet]
     public IActionResult Index()
     {
         return View();
     }
 
+    //Burası prişvacy
     public IActionResult Privacy()
     {
         return View();
     }
 
+    //error page
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {
