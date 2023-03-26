@@ -11,3 +11,6 @@ Projenin test aşamasında, XUnit testi kullanılmıştır. Testler, sadece user
 şekilde çalıştığından emin olmak için geliştirilmiştir.
 
 Projenin arayüz tasarımı, css kullanılarak gerçekleştirilmiştir. Bir tema paneli kullanılarak proje daha şık ve kullanıcı dostu bir hale getirilmiştir.
+
+Veritabanı dosyası sizde çalışmassa, projedeki DataAccessLayer içinde Concrete klasörü altındaki Contex.cs sınıfındaki veritabanı adresini 
+sizin adresiniz ile değiştirip, migration ile veritabanını oluşturabilirsiniz. 
