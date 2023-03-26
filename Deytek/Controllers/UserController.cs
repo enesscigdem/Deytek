@@ -39,17 +39,14 @@ namespace Deytek.Controllers
         {
             if (Image != null && Image.Length > 0)
             {
-                // Set the image path to a unique filename
                 var fileName = Guid.NewGuid().ToString() + Path.GetExtension(Image.FileName);
                 var imagePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "writer", "Resimler", fileName);
 
-                // Save the file to disk
                 using (var stream = new FileStream(imagePath, FileMode.Create))
                 {
                     await Image.CopyToAsync(stream);
                 }
 
-                // Set the profile photo URL to the new filename
                 p.Image = fileName;
             }
             if (ModelState.IsValid)

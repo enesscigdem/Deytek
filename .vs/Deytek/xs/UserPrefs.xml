@@ -1,42 +1,30 @@
 ﻿<Properties StartupConfiguration="{87ABCA3F-671E-446F-BCAE-320F16F7966A}|https">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Deytek/Views/User/AddUser.cshtml">
-    <Files>
-      <File FileName="Deytek/Views/User/AddUser.cshtml" Line="15" Column="44" />
-      <File FileName="Deytek/Controllers/UserController.cs" />
-      <File FileName="EntityLayer/Concrete/AppUser.cs" />
-      <File FileName="Deytek/Views/User/UserList.cshtml" />
-      <File FileName="Deytek/Models/UserSignUpViewModel.cs" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Deytek" expanded="True">
-            <Node name="Deytek" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Models" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="Shared" expanded="True" />
-                <Node name="User" expanded="True">
-                  <Node name="AddUser.cshtml" selected="True" />
-                </Node>
-              </Node>
-              <Node name="wwwroot" expanded="True">
-                <Node name="writer" expanded="True" />
-              </Node>
+            <Node name="UnitTest" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Usings.cs" selected="True" />
             </Node>
-            <Node name="EntityLayer" expanded="True">
-              <Node name="Concrete" expanded="True" />
-            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Deytek" expanded="True" selected="True">
+            <Node name="UnitTest" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Deytek PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
