@@ -7,6 +7,8 @@ bilgileri kaydedilip, bir tabloda listelenebiliyor. Ayrıca, bu panelde silme ve
 Proje Katmanlı Mimari tasarım deseni ile geliştirilmiştir. EntityLayer, DataAccessLayer, UI ve BusinessLayer katmanları bu mimari tasarımın 
 bir parçasıdır. 
 
+Ayrıca projede identity kullanılmıştır. Ekstra olarak kullanılmıştır.
+
 Projenin test aşamasında, XUnit testi kullanılmıştır. Testler, sadece user controller için yapılmıştır. Bu testler, uygulamanın doğru bir
 şekilde çalıştığından emin olmak için geliştirilmiştir.
 
